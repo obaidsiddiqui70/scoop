@@ -1,0 +1,169 @@
+.logo{
+  height:4.375rem;
+  width:4.375rem;
+  margin-left: 2.5rem;
+}
+body{
+  background-color: #1a1a2e;
+  font-family: "Montserrat";
+}
+h1{
+  color: #fbd46d;
+ font-weight: bolder;
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h2{
+  color: #fbd46d;
+  font-family: "Montserrat";
+  font-weight: bolder;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h3{
+  color: #fbd46d;
+  font-family: "Montserrat";
+  font-weight: bolder;
+}
+h4{
+  color: #fbd46d;
+  font-family: "Montserrat";
+  font-weight: bolder;
+}
+p{
+  color: #fbd46d;
+}
+.download{
+  margin:5% 3% 5% 0;
+}
+.topsiders{
+  font-weight: bold;
+  color: #393b44;
+  font-family: "Ubuntu";
+  padding: 0 1.125rem;
+}
+.ball{
+  height:31.25rem;
+  width:34.375rem;
+  position: absolute;
+}
+.row{
+  margin-top: 3.125rem;
+}
+.container-fluid{
+padding: 3% 7% 7%;
+}
+#title{
+  background-color: #1a1a2e;
+}
+#features{
+  padding: 7% 15%;
+  background-color: #f0a500;
+  position: relative;
+  z-index: 1;
+}
+.feature-box{
+  padding: 5%;
+  text-align: center;
+}
+.feature{
+    color: #1a1a2e;
+    font-weight: bolder;
+    font-family: "Montserrat";
+}
+.icon{
+  color: #1a1a2e;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #562349;
+}
+.apple:hover{
+  color: yellow;
+}
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #1a1a2e;
+}
+.testImage{
+  width:12%;
+  border-radius: 100%;
+  margin: 1.25rem;
+}
+
+#press{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #1a1a2e;
+}
+#pricing{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #d92027;
+}
+.products{
+  margin: 1.25rem;
+}
+.cleats{
+  text-align: center;
+  width: 40%;
+  height:18.75rem;
+}
+.btn2{
+  background-color: #d92027;
+  color: #fbd46d;
+  width: 20%;
+  border: none;
+  font-size: 1.875rem;
+  font-weight: bolder;
+  font-family: "Montserrat";
+}
+#cta{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: yellow;
+}
+.follow{
+  color: #1a1a2e;
+  font-family: "Montserrat";
+  font-weight: bolder;
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #1a1a2e;
+}
+@media (max-width:63.75rem)
+{
+  #title{
+    text-align: center;
+  }
+  .ball{
+    height: 18.75rem;
+    width: 18.75rem;
+    position: static;
+  }
+  .navbar-nav{
+    text-align: center;
+  }
+  .testImage{
+    height: 6.25rem;
+    width: 6.25rem;
+  }
+.jordan{
+  margin-bottom: 1.25rem;
+}
+.converse{
+  margin-top: 1.25rem;
+}
+.cleats{
+  height: 12.5rem;
+  width:12.5rem;
+}
+  #features
+  {
+    position: static;
+  }
+}
